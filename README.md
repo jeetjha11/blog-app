@@ -20,7 +20,7 @@ To run this project, you need to have the following installed on your system:
 #### Front-end
 1. Clone the repository:
    ```bash
-   git clone https://github.com/jeetjha11/blog-app 
+   git clone https://github.com/jeetjha11/blog-app.git
 
 
 2. Navigate to the project directory
